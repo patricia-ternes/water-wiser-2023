@@ -11,7 +11,7 @@ Instructor: Dr Patricia Ternes
 - [Hackpad](https://hackmd.io/@research-computing-leeds/water-wiser-2023)
 - [Slides](https://slides.com/patriciaternes/water-wiser-2023)
 - [Colab - to dev](https://colab.research.google.com/github/patricia-ternes/water-wiser-2023/blob/main/notebooks/data-python_working.ipynb)
-- [Colab - to see](https://colab.research.google.com/github/patricia-ternes/water-wiser-2023/blob/main/notebooks/data-python.ipynb)
+- [Colab - complete](https://colab.research.google.com/github/patricia-ternes/water-wiser-2023/blob/main/notebooks/data-python.ipynb)
 
 ## Data
 
