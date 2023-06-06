@@ -21,5 +21,5 @@ For this workshop we are going to use the "Iris" dataset, more information:
 
 - [Original Publication](https://archive.ics.uci.edu/ml/datasets/iris)
 - [wikipedia Info](https://en.wikipedia.org/wiki/Iris_flower_data_set)
-- [Download 1](https://github.com/patricia-ternes/water-wiser-2023/blob/main/data/raw/iris1.csv)
-- [Download 2](https://github.com/patricia-ternes/water-wiser-2023/blob/main/data/raw/iris2.csv)
+- [Download 1](https://raw.githubusercontent.com/patricia-ternes/water-wiser-2023/main/data/raw/iris1.csv)
+- [Download 2](https://raw.githubusercontent.com/patricia-ternes/water-wiser-2023/main/data/raw/iris2.csv)
